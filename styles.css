@@ -26,12 +26,12 @@ body{
   z-index:-1;
   display: flex;
   align-items: center;
-  background-image: url("./assets/banner.jpg");
+  background-image: url("banner.jpg");
   padding:0% 5%;
 }
 
 .header-wrapper-content {
-  background-image: url("./assets/Ellipse.jpg");
+  background-image: url("Ellipse.jpg");
   background-repeat: no-repeat;
   position: relative;
   height: 100%;
@@ -55,7 +55,7 @@ body{
 
 
 .header-wrapper-right-image {
-  background-image: url("./assets/bannerman.png");
+  background-image: url("bannerman.png");
   width: 50%;
   height: 100%;
   z-index:-3;
@@ -457,7 +457,7 @@ width: 80%;
   width: 50%;
   background-position: center center;
   justify-content: center;
-  background-image: url("./assets/Ellipse69.png");
+  background-image: url("Ellipse69.png");
   height:100%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -469,7 +469,7 @@ width: 80%;
 }
 
 .Section3-right1::before{
-content:url("./assets/Group33.png");
+content:url("Group33.png");
 position: absolute;
 top:0;left:0;
 }
@@ -581,7 +581,7 @@ align-items: center;
 
 
 .Section4-first{
-  background-image: url("./assets/Ellipse62.png");
+  background-image: url("Ellipse62.png");
   width: 45%;
   background-position: center center;
   justify-content: center;
@@ -605,7 +605,7 @@ align-items: center;
 }
 
 .Section4-second{
-  background-image:url("./assets/Group32.png");
+  background-image:url("Group32.png");
   height:20%;
   width:10%;
   background-repeat: no-repeat;
@@ -616,7 +616,7 @@ align-items: center;
 
 
 .Section4-third{
-  background-image: url("./assets/Ellipse62.png");
+  background-image: url("Ellipse62.png");
   width: 45%;
   background-position: center center;
   justify-content: center;
@@ -693,7 +693,7 @@ align-items: center;
 }
 
 .Section4-third::before{
-  content:url("./assets/Group32new.png");
+  content:url("Group32new.png");
   position: absolute;
   height:40%;
   bottom:0;
@@ -1065,7 +1065,7 @@ display: flex;
 
 }
 .Section9-left1-main{
-  background-image:url("./assets/Ellipse54.png");;
+  background-image:url("Ellipse54.png");;
   background-position: center center;
   background-size: contain;
   background-repeat: no-repeat;
@@ -1305,7 +1305,7 @@ font-weight: 700;
 
 .footer-content5{
 
-  background-image:url("./assets/Footer-fifthone.png");
+  background-image:url("Footer-fifthone.png");
   background-repeat: no-repeat;
   background-size: cover;
   height: 100%;
