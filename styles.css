@@ -2514,5 +2514,20 @@ padding:0%!important;
 /*--------------------------------------------------------------------------------------------------*/
 
 
+/* 
+@media screen and (max-width:506px){
+
+  .customer-logos>div.slick-list>div.slick-track{
+    bordeR:2px solid red
+  }
 
 
+
+} */
+
+  /* .customer-logos>div.slick-list>div.slick-track:nth-child(1) img{
+    bordeR:2px solid red
+  }
+  .customer-logos>div.slick-list>div.slick-track:nth-child(1) img{
+    bordeR:2px solid red
+  } */
