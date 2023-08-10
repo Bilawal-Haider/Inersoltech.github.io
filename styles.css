@@ -490,8 +490,7 @@ background-position:center center;
       .cont .row .col p{
         font-size:11px;
         width:90%;
-        /* bordeR:2px solid red */
-        /* text-align: justify; */
+     
         
       }
          
@@ -1613,7 +1612,6 @@ height:80vh!important
 /*------Portfolio---Wala-------Section--4*/
 
 
-/*---------------Section  5------Start-----*/
 
 /*-------Section---6----Starting--------*/
 
@@ -1683,7 +1681,6 @@ font-weight: 900;
 @media screen and (max-width:2000px){
   .Section5-Portfolio h1 {
 width:100%;
-/* transform:translate(-60%,0%); */
   }
 
 }
@@ -1694,7 +1691,6 @@ width:100%;
   width:100%;
   text-align: center;
   padding-bottom:10%;
-  /* transform: translate(0%); */
   }
   .Section5-Portfolio-right1-content{
     width:80%!important;
@@ -1713,7 +1709,6 @@ width:100%;
   .Section5-Portfolio-left1 h1{
 width:100%;
 font-size: 65px!important;
-/* transform: translate(0%); */
 
   }
   .Section5-Portfolio-right1-content{
@@ -1735,7 +1730,6 @@ font-size: 65px!important;
     width:100%;
     text-align: center!important;
     font-size:50px!important;
-    /* transform: translate(0%); */
 
   }
   .Section5-Portfolio-right1-content{
@@ -1747,7 +1741,6 @@ font-size: 65px!important;
 @media screen and (max-width:567px){
   .Section5-Portfolio-left1 h1{
   font-size:25px!important;
-  /* transform: translate(0%); */
 
   }
 
@@ -1882,7 +1875,6 @@ font-size: 20px!important;
 
 .Section7-second{
   width:50%;
-  /* padding:0% 5%; */
 }
 
 .Section7-second .Section7-second-number{
@@ -2034,77 +2026,6 @@ width:70%!important
 /*------Section7-----End-----*/
 
 
-/*------Section8------------*/
-/* 
-.Section8{
-  display: flex;
-  flex-direction: column;
-  height: 60vh;
-  align-items: center;
-  margin-top:1%;
-}
-
-
-.Section8-heading{
-  display: flex;
-  justify-content: center;
-  width: 100%;
-}
-.Section8-heading-number{
-width: 10%;
-display: flex;
-  align-items: center;
-}
-
-.Section8 :nth-child(2){
-  display: flex;
-  align-items:center;
-}
-.Section8 :nth-child(2) h1{
-text-align: center;
-font-size: 60px;
-}
-.Section8 :nth-child(2) :first-child{
-font-weight: 300;
-}
-.Section8 :nth-child(2) :last-child{
-  font-weight: 900;
-  padding-left:20px ;
-  color: #1A2807;
-
-  font-size: 60px;
-}
-.Section8-heading .Section8-heading-number h2{
-  display: flex;
-  justify-content: flex-start;
-  width:100%;
-  padding:10px;
-  font-size: 25px;
-  font-weight: 800;
-  font-family: "montserrat";
-  position: relative;
-
-}
-
-.Section8-heading .Section8-heading-number h2::after{
-content:"";
-width: 30%;
-border:1px solid black;
-height: 0px;
-position: absolute;
-display: flex;
-bottom: 50%;
-left:35%;
-align-items: center;
-} */
-
-/* Section8-heading-number */
-
-
-
-
-
-/*--------Scetion8-----EnDED---------------*/
 
 
 
@@ -2508,26 +2429,3 @@ padding:0%!important;
 
 
 
-
-
-
-/*--------------------------------------------------------------------------------------------------*/
-
-
-/* 
-@media screen and (max-width:506px){
-
-  .customer-logos>div.slick-list>div.slick-track{
-    bordeR:2px solid red
-  }
-
-
-
-} */
-
-  /* .customer-logos>div.slick-list>div.slick-track:nth-child(1) img{
-    bordeR:2px solid red
-  }
-  .customer-logos>div.slick-list>div.slick-track:nth-child(1) img{
-    bordeR:2px solid red
-  } */
